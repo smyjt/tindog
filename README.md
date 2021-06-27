@@ -1,2 +1,1 @@
-# tindog
-A trial project on HTML and CSS 
+TinDog Starting Files
